@@ -26,7 +26,7 @@ int main ()
 	}
 	else
 	{
-		printf ("invalid branch");
+		printf ("this branch is available right now");
 	}
 	return (0);
 }
